@@ -1,0 +1,19 @@
+image,output
+../img/sample5.jpeg,"```json
+{
+""caption"": ""Several students are working in a computer lab, focusing on papers and screens at their desks."",
+""objects"": [
+    ""computer monitor"",
+    ""keyboard"",
+    ""desk"",
+    ""chair"",
+    ""paper"",
+    ""students"",
+    ""window"",
+    ""wall"",
+    ""ceiling light""
+],
+""environment"": ""Computer lab or classroom with multiple computer stations and windows along the wall."",
+""activity"": ""Students reading documents and looking at their computers, likely studying or completing an assignment.""
+}
+```"
